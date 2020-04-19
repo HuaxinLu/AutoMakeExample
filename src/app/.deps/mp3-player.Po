@@ -1,0 +1,66 @@
+mp3-player.o: player.c /usr/include/stdc-predef.h /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h ../inc/lcd.h ../inc/usb.h ../inc/usb1.h \
+ ../inc/usb2.h ../inc/usb3.h ../inc/usb4.h ../inc/media.h ../inc/math.h \
+ ../inc/gif.h ../inc/rmvb.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+../inc/lcd.h:
+
+../inc/usb.h:
+
+../inc/usb1.h:
+
+../inc/usb2.h:
+
+../inc/usb3.h:
+
+../inc/usb4.h:
+
+../inc/media.h:
+
+../inc/math.h:
+
+../inc/gif.h:
+
+../inc/rmvb.h:
